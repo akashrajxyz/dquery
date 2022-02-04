@@ -25,7 +25,7 @@ gunicorn --bind 0.0.0.0:5000 api:app
 
 ### Download Database
 Have to download a Database in Repository to use this API.
-[Drive Database Link] (https://drive.google.com/file/d/1lvrpSmp6CS-fp6ySVREzzEETLXSaZ7of/view?usp=sharing)
+[Drive Database Link](https://drive.google.com/file/d/1lvrpSmp6CS-fp6ySVREzzEETLXSaZ7of/view?usp=sharing)
 
 
 ## Usage
