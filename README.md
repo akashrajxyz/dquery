@@ -10,7 +10,7 @@ http://3.109.122.49:5000/1/queries/count/2015
 ## Requirements
 - Python 3.7.x
 - Flask 2.x 
-- db-sqlite3
+- Sqlite3
 
 ## Installation
 
