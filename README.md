@@ -23,7 +23,6 @@ gunicorn --bind 0.0.0.0:5000 api:app
 
 ```
 
-```
 
 ## Usage
 After running the server on some port (it use port =5000= by default).
